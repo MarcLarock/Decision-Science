@@ -1,4 +1,4 @@
-# Probabilistic Graphical Models
+# Decision Science
 A Simple PGM for Medical Decision-Making
 
 In this project, I explore a Bayesian decision theoretic approach to medical diagnosis. I make use of the python library pgmpy, which is a python library for working with Probabilistic Graphical Models. The scenario I imagine is one in which a patient is taking a medication that has certain potential side effects:
