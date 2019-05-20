@@ -11,4 +11,4 @@ In this project, I explore a Bayesian decision theoretic approach to medical dia
 
 Since xerostomia can also be caused by anxiety and the patient suffers from seasonal allergies, we need to determine if the medication is causing her symptoms.
 
-2. The Alpha-Index Rule for Decisions Under Uncertainty
+2. The Leximin and Alpha-Index Frameworks for Decisions Under Uncertainty
