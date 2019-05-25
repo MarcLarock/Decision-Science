@@ -13,6 +13,4 @@ Since xerostomia can also be caused by anxiety and the patient suffers from seas
 
 #### 2. The Leximin, Maximin, and Alpha-Index Frameworks for Decisions Under Uncertainty
 
-Formally, these rules are as follows:
 
-1. Leximin: $$a_i \succ a_j \Leftrightarrow \exists n : min^n(a_i) > min^n(a_j) \land min^m(a_i) = min^m(a_j) \, \forall  (m < n)$$
